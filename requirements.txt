@@ -1,0 +1,10 @@
+numpy
+tqdm
+vtk
+pyvista
+qtpy
+
+# scipy and rtree are soft dependencies of trimesh
+scipy
+rtree
+trimesh
