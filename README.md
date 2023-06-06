@@ -25,8 +25,8 @@ python cli.py --help
 
 
 ## Parameter Definitions
-| Parameter | Dimension | Definition | Description | Source |
-|-----------|-----------|------------|-------------|--------|
+| Parameter | Dimension | Description | Source |
+|-----------|-----------|-------------|--------|
 | Sa  | Length | Average absolute height | [1] |
 | Sp  | Length | Maximum peak height | [1] |
 | Sv  | Length | Maximum valley depth | [1] |
