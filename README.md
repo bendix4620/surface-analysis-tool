@@ -1,8 +1,8 @@
 # Surface Analysis Tool for Additively Manufactured Parts
-A program for surface characterization of arbitrarily shaped triangulated surface meshes, commonly encountered in analying addtively manufactured parts.
+A program for surface characterization of arbitrarily shaped triangulated surface meshes, commonly encountered in analyzing addtively manufactured parts.
 
 ## Installation
-Close the repository (or download it's contents manually):
+Clone the repository (or download it's contents manually):
 ```shell
 git clone https://github.com/bendix4620/surface-analysis-tool.git
 ```
